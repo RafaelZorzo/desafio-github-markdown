@@ -1,11 +1,12 @@
-<img src=  "Seongjun27s_Despair.jpg" width=  "325px" align="right">
 
 # 😁Seja Bem-Vindo(a) ao meu Github, espero que goste🫰
-Fascinado em programação, procurando oportunidades na área.
+<img src=  "Seongjun27s_Despair.jpg" width=  "180px" align="right">
+
+**Estudante de Java/Backend, procurando oportunidades na área.**
 - 💻 Tecnico de Informatica - ETEC
 - 🎲 Estudante Bacharelado de Tecnologia da Informação = Univesp
 - 💻 Aprendendo Java
-<!-- 👨‍💻 Aprendendo Back End -->
+- 👨‍💻 Aprendendo Back End
 <div id="badges">
   <a href = "https://www.linkedin.com/in/rafael-praxedes-zorzo-78a64a184/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
