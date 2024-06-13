@@ -1,4 +1,4 @@
-<img src=  "giphy (3).gif" width=  "325px" align="right">
+<img src=  "Seongjun%27s_Despair (1).jpg" width=  "325px" align="right">
 
 # 😁Seja Bem-Vindo(a) ao meu Github, espero que goste🫰
 Fascinado em programação, procurando oportunidades na área.
