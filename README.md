@@ -1,6 +1,6 @@
 <img src=  "transformers-soundwave.gif" width="400px" align="right">
 
-# 😁Seja Bem-Vindo(a) ao meu Github, espero que goste🫰|
+# 😁Seja Bem-Vindo(a) ao meu Github, espero que goste🫰
 **Estudante de Java/Backend, procurando oportunidades na área.**
 - 💻 Tecnico de Informatica - ETEC
 - 🎲 Estudante Bacharelado de Tecnologia da Informação = Univesp
